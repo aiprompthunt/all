@@ -6,6 +6,10 @@
 
 **Description**: Basic management of your ships
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## Prompt
 
 Create a ship management dashboard where you can add ships by IMO or ship name. 
