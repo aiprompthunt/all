@@ -6,6 +6,10 @@
 
 **Description**: Create a ticket management platform like Trello
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## Prompt
 
 Create a web application which looks like Trello
